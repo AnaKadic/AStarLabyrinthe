@@ -2,7 +2,7 @@
 
 ## Université Paris-Cité
 
-Auteurs du sujet : LOMÉNIE Nicolas, MAHÉ Gael, élaboré avec LOBRY Sylvain.
+Auteurs du sujet : LOMÉNIE Nicolas, MAHÉ Gael, en collaboration avec LOBRY Sylvain.
 
 ## Introduction
 
